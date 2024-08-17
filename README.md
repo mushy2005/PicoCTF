@@ -1,5 +1,5 @@
-# PicoCTF
-Collection of write-ups from various PicoCTF challenges.
+# picoCTF
+Collection of write-ups from various picoCTF challenges.
 
 # Table of Contents
 1. ![Introduction](#introduction)

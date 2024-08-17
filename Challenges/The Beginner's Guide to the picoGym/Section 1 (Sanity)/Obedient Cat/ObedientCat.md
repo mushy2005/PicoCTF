@@ -4,4 +4,5 @@
 
 ## Steps
 1. I'm doing the challenge in Kali Linux as I believe that to be most beneficial. Once the file has been downloaded, here's what I did next:
-![]()
+![images](images/solution.png)
+

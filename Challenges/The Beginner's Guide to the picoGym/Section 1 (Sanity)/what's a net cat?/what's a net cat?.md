@@ -16,5 +16,5 @@ Again, another simple challenge. All we need to do is run the netcat command
 
 ## Step-by-Step Solution
 1. After logging in to the webshell, we would run the netcat command, which is ``nc jupiter.challenges.picoctf.org 64287``. The domain and port number might be different, though it still follows the same structure. 
-   
+2. After running the command, it'll give us the flag: ``picoCTF{nEtCat_Mast3ry_284be8f7}``
 

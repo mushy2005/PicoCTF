@@ -4,3 +4,4 @@
 
 ## Sections
 1. ![Section 1 (Sanity)](https://github.com/mushy2005/picoCTF/blob/main/Challenges/The%20Beginner's%20Guide%20to%20the%20picoGym/Section%201%20(Sanity)/Section1.md)
+2. ![Section 2 (CyberChef)](https://github.com/mushy2005/picoCTF/tree/main/Challenges/The%20Beginner's%20Guide%20to%20the%20picoGym/Section%202%20(CyberChef))

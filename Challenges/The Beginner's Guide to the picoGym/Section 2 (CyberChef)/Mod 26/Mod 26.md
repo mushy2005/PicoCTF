@@ -6,11 +6,11 @@
 ---
 
 ## Challenge Description
-![]()
+![](https://github.com/mushy2005/picoCTF/blob/main/Challenges/The%20Beginner's%20Guide%20to%20the%20picoGym/Section%202%20(CyberChef)/Mod%2026/images/Mod%2026.png)
 ---
 
 ## Approach
-This challenge could easily be solved by using a tool known as CyberChef.
+This challenge could easily be solved by using a tool known as CyberChef, which helps with decoding cryptographic strings.
 
 ---
 
